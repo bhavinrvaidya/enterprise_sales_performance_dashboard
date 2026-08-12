@@ -355,8 +355,4 @@ This project supports preparation for the **Microsoft Power BI Data Analyst (PL-
 
 ## 👨‍💻 Author
 
-**Bhavin**
-
-Aspiring Data Analyst | Power BI | SQL | Python | Data Analytics
-
-This project is part of my journey toward transitioning into a **Data Analyst / Business Analyst** role and building a practical portfolio of end-to-end analytics projects.
+**Bhavin Vaidya**
