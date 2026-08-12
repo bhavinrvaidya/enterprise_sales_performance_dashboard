@@ -8,14 +8,11 @@ The dashboard analyzes **sales, profit, products, categories, sub-categories, an
 
 The project demonstrates an end-to-end Power BI workflow: **data preparation → data modeling → DAX measures → interactive visualization → business insights**.
 
-<img width="1435" height="808" alt="image" src="https://github.com/user-attachments/assets/3c68d32e-f4b7-4ee0-9465-e94ca3cfc879" />
-
-
 ---
 
 ## 🖼️ Dashboard Preview
 
-![US Sales Performance Dashboard](dashboard.png)
+<img width="1435" height="808" alt="image" src="https://github.com/user-attachments/assets/3c68d32e-f4b7-4ee0-9465-e94ca3cfc879" />
 
 ---
 
