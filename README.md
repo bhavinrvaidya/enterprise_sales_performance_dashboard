@@ -17,8 +17,6 @@ The project demonstrates an end-to-end Power BI workflow: **data preparation →
 
 ![US Sales Performance Dashboard](dashboard.png)
 
-> **Note:** Add the dashboard screenshot to the repository and name it `dashboard.png` for the preview above to display correctly.
-
 ---
 
 ## 🛠️ Tech Stack & Skills
