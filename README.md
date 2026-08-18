@@ -95,25 +95,6 @@ This dashboard is designed to answer questions such as:
 
 ---
 
-## 🚀 Future Improvements
-
-Potential enhancements for a more advanced version of the dashboard:
-
-- Add **Year-over-Year (YoY) Sales Growth**
-- Add **Profit Margin %**
-- Add **Sales and Profit trend analysis over time**
-- Add **Top/Bottom 10 products**
-- Add **Customer segmentation analysis**
-- Add **dynamic titles**
-- Add **drill-through pages**
-- Add **tooltips and bookmarks**
-- Implement **Row-Level Security (RLS)**
-- Optimize the model using a full **star schema**
-- Add a dedicated **Date dimension**
-- Add advanced **DAX time-intelligence measures**
-
----
-
 ## 👨‍💻 Author
 
 **Bhavin Vaidya**
