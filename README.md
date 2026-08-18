@@ -16,26 +16,6 @@ The project demonstrates an end-to-end Power BI workflow: **data preparation →
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-- **Tool:** Microsoft Power BI Desktop
-- **Data Source:** Excel transactional order dataset (`Orders_data.xlsx`)
-- **Data Transformation:** Power Query
-- **Data Modeling:** Power BI data model / dimensional modeling concepts
-- **Calculations:** DAX measures and aggregation functions
-- **Visualization:** KPI Cards, Pie/Donut Charts, Bar Charts, Map Visualization, Slicers
-- **Skills Demonstrated:**
-  - Data cleaning and transformation
-  - Data modeling
-  - DAX
-  - KPI development
-  - Interactive report design
-  - Geographic analysis
-  - Product and category analysis
-  - Business storytelling
-
----
-
 ## 📁 Dataset Overview
 
 The dataset contains **9,994 transactional records** and **21 columns**.
