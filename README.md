@@ -16,31 +16,6 @@ The project demonstrates an end-to-end Power BI workflow: **data preparation →
 
 ---
 
-## 📁 Dataset Overview
-
-The dataset contains **9,994 transactional records** and **21 columns**.
-
-Key fields include:
-
-| Field | Description |
-|---|---|
-| `order_id` | Unique order identifier |
-| `order_date` | Date the order was placed |
-| `ship_date` | Date the order was shipped |
-| `customer_id` | Customer identifier |
-| `customer_name` | Customer name |
-| `segment` | Customer segment |
-| `region` | Sales region |
-| `state` | Customer/order state |
-| `city` | Customer/order city |
-| `category` | Product category |
-| `sub_category` | Product sub-category |
-| `product_name` | Product name |
-| `sales` | Sales/revenue amount |
-| `quantity` | Quantity sold |
-| `discount` | Discount applied |
-| `profit` | Profit generated |
-
 ### Data Coverage
 
 - **Orders:** 9,994 rows
